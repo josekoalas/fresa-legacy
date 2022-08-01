@@ -45,7 +45,7 @@ _This repository holds the legacy working version of **fresa**. The '[graphics](
 Right now the project is in the **very pre-alpha** state, so use it at your own risk.
 
 **Examples:**
-- :peach: [melocoton](https://github.com/josekoalas/melocoton): Full **fresa** template, with detailed instructions on how to build
+- :peach: [mermelada](https://github.com/josekoalas/mermelada-legacy): Full **fresa** template, with detailed instructions on how to build
 - :sun_behind_large_cloud: [raymarching](https://github.com/josekoalas/maracuya/tree/main/raymarching): Quick and simple raymarching example
 
 You can check  for an example on how one could set up a **fresa** project. Instructions on how to build it are there.
@@ -103,20 +103,4 @@ You can also create a `vertex_list.h` to add new vertex type definitions to use 
 
 ## license :pencil:
 
-This project is licensed under GNU GPLv3. I made **fresa** :strawberry: because I wanted to learn, and I did, so many things. But this learning was possible only because there are thousands of awesome people that publish their projects for others to see. That is why I am so happy, after all this time, I made something I consider it is worth sharing. It is not perfect, and it has room to grow, but it is something.
-
-This is the reason I chose this license. It allows anyone to see, use, modify and learn from this code. There is one condition though, that all derivative distributed projects must also be **shared** with the same license, as open source code. That way other people might learn from what we make in the future, and they might end up creating something much better.
-
-Here is a brief explanation of the license:
-
-```markdown
-1. Anyone can copy, modify and distribute this software.
-2. You have to include the license and copyright notice with each and every distribution.
-3. You can use this software privately and for commercial purposes.
-4. If you modify it, you have to indicate changes made to the code.
-5. Any modifications of this code base MUST be distributed with the same license, GPLv3.
-6. This software is provided without warranty.
-7. The software author or license can not be held liable for any damages inflicted by the software.
-```
-
-For reference, please read the full license [here](https://github.com/josekoalas/fresa/blob/main/LICENSE.md).
+This project is licensed under [GNU GPLv3](https://github.com/josekoalas/fresa/blob/main/LICENSE.md).
